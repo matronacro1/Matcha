@@ -233,3 +233,5 @@ end
 function Input.init()
     setrobloxinput(false)
 end
+
+return Input
