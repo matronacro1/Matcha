@@ -1,8 +1,3 @@
---[[
-    Matcha Input Library v1.0
-    Complete keyboard/mouse automation
-]]
-
 local Input = {}
 
 -- Adjustable delays (seconds)
